@@ -38,7 +38,7 @@
 				<input id="nameInput" type="text" class="input-medium" placeholder="Name" />
 				<input id="messageInput" type="text" class="input-xxlarge" placeHolder="Message" />
 
-				<input type="submit" value="Send" />
+				<button type="submit" class="btn btn-default" value="Send">Send</button>
 			</form>
 
 			<div>
